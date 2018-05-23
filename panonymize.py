@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Copyright 2018 by L. Aaron Kaplan <kaplan@cert.at>, all rights reserved
+
 import sys
 import time
 import random

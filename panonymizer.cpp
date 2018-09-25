@@ -34,7 +34,7 @@ PAnonymizer::PAnonymizer(const char* ciphername, const u_int8_t * key) :
 
 //Destructor
 PAnonymizer::~PAnonymizer() {
-    delete m_pad;
+    delete[] m_pad;
 }
 
 //Anonymization funtion

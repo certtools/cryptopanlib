@@ -3,7 +3,7 @@
 // Last Update: Aug 8, 2005
 // Author: Jinliang Fan, David Stott (stott@lucent.com)
 
-#ifndef CRYTPO_H
+#ifndef CRYPTO_H
 #define CRYPTO_H
 
 #include <sys/types.h>
